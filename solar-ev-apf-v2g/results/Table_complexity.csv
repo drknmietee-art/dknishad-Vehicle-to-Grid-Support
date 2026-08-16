@@ -1,0 +1,13 @@
+Metric,Value
+PLL / angle update,8
+Park transform abc->dq (Eq.8),18
+LPF DC extraction (i_d),4
+DC-link PI (Eq.11),6
+Inverse transform / ref i_c,18
+Hysteresis compare x3 (Eq.12),6
+TOTAL flops/step,60
+control rate [kHz],500
+online [Mflops/s],30
+PSO evals (N*kmax),3000
+single sim [s],15.421
+full tuning [min],771.061

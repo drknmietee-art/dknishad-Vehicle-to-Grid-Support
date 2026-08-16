@@ -1,0 +1,6 @@
+Case,Configuration,THD_G2V_pct,THD_V2G_pct,TDD_pct,Vdc_mean_V,Vdc_err_pct,PF
+1,"No APF (uncompensated)",21.73,21.73,21.73,756.5,0.73,0.977
+2,"APF, un-tuned PI gains",2.72,6.32,2.55,769.4,2.46,1
+3,"APF, PSO-tuned (Proposed)",3.38,5.95,2.65,756.5,0.73,0.999
+4,"Proposed, PV disabled",1.92,2.94,2.4,756.4,0.68,1
+5,"Proposed, V2G disabled",4.75,4.36,2.81,754.2,0.5,0.999

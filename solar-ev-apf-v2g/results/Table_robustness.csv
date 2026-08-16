@@ -1,0 +1,16 @@
+Disturbance,Level,THD_pct,Vdc_mean_V,Vdc_err_pct,IEEE519
+Grid voltage [pu],0.8,1.65,758.2,0.92,PASS
+Grid voltage [pu],1,2.65,756.5,0.73,PASS
+Grid voltage [pu],1.2,6.45,755.2,0.61,FAIL
+Grid frequency [Hz],49,2.68,756.4,0.73,PASS
+Grid frequency [Hz],50,2.65,756.5,0.73,PASS
+Grid frequency [Hz],51,2.89,756.6,0.73,PASS
+APF inductor Lf [pu],0.8,1.93,755.8,0.69,PASS
+APF inductor Lf [pu],1,2.65,756.5,0.73,PASS
+APF inductor Lf [pu],1.2,3.31,757,0.77,PASS
+DC-link Cdc [pu],0.8,2.53,756,0.7,PASS
+DC-link Cdc [pu],1,2.65,756.5,0.73,PASS
+DC-link Cdc [pu],1.2,2.55,756.9,0.77,PASS
+Rectifier load [pu],0.8,2.42,756.3,0.72,PASS
+Rectifier load [pu],1,2.65,756.5,0.73,PASS
+Rectifier load [pu],1.2,3.21,756.6,0.74,PASS

@@ -1,0 +1,5 @@
+Model                          : EVCS_APF_V2G
+Source-current THD, G2V mode   : 6.14 %
+Source-current THD, V2G mode   : 9.35 %
+Worst-mode THD (compliance)    : 9.35 %  (IEEE-519 NOT met - run pso_tune)
+Mean DC-link voltage (t>0.1s)  : 756.5 V  (ref 750 V)
